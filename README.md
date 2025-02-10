@@ -1,1 +1,1 @@
-# Deep-Learning-Project-Team-5
+ Two members of our group used the Code-CIFAR10 and Code-MNIST datasets separately, so we have two sets of code. 
